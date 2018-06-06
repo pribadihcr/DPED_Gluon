@@ -1,6 +1,6 @@
 # DPED_Gluon
 
-###Training
+### Training
 
 ```text
 $python train.py model=iphone
